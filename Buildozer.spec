@@ -6,19 +6,19 @@
 [app]
 
 # (str) Title of your application
-title = My Application
+title = vibI
 
 # (str) Package name
-package.name = myapp
+package.name = vibI
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.test
+package.domain = org.vibI
 
 # (str) Source code where the main.py live
 source.dir = .
 
 # (list) Source files to include (leave empty to include all the files)
-source.include_exts = py,png,jpg,kv,atlas
+source.include_exts = py,png,jpg,kv,atlas,ttf
 
 # (list) List of inclusions using pattern matching
 #source.include_patterns = assets/*,images/*.png
