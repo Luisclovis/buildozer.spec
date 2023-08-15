@@ -42,8 +42,9 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-#requirements = python3==3.11.3, kivy==2.2.1, pillow, datetime, matplotlib, kivy_matplotlib_widget, numpy
-requirements = python3==3.11.3, kivy==2.2.1, pillow, contourpy, cycler, fonttools, kiwisolver, numpy, packaging, pyparsing, six, python-dateutil, matplotlib, kivy_matplotlib_widget, numpy
+# requirements = python3==3.11.3, kivy==2.2.1, pillow, datetime, matplotlib, kivy_matplotlib_widget, numpy
+# requirements = python3==3.11.3, kivy==2.2.1, pillow, contourpy, cycler, fonttools, kiwisolver, numpy, packaging, pyparsing, six, python-dateutil, matplotlib, kivy_matplotlib_widget, numpy
+requirements = python3, kivy==2.2.1, pillow, numpy, docutils, matplotlib, kivy_matplotlib_widget
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
